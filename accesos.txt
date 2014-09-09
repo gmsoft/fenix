@@ -1,0 +1,15 @@
+Acceso al tracker
+
+http://gogress.com/bugs/login_page.php
+user : maxi.solimo
+pass : 123456
+
+<Host>ftp.gogress.com</Host>
+<Port>21</Port>
+<User>msolimodebate@gogress.com</User>
+<Pass>gogress3643</Pass>
+
+sitio online
+http://gogress.com/debate/clasificados/admin
+user : administrador
+pass : 123456
