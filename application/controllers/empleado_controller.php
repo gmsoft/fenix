@@ -22,7 +22,7 @@ class empleado_controller extends CI_Controller {
     }
     
     /**
-     * Handle de usuarios 
+     * Handle de empleados 
      */
     public function manager_empleados() 
     {
