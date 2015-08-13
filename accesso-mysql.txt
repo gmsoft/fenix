@@ -1,0 +1,11 @@
+Server: 127.8.167.2:3306
+Root User: adminwycUGv4
+Root Password: gruNxJKGBZS2
+Database Name: autopartes365
+
+Connection URL: mysql://$OPENSHIFT_MYSQL_DB_HOST:$OPENSHIFT_MYSQL_DB_PORT/
+
+Please make note of these MySQL credentials again:
+Root User: adminwycUGv4
+Root Password: gruNxJKGBZS2
+URL: https://autopartes365-menation.rhcloud.com/phpmyadmin/
