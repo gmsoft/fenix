@@ -55,7 +55,7 @@ Root Password: gruNxJKGBZS2
 Database Name: autopartes365
 */
 
-$db['default']['hostname'] = 'localhost';
+$db['default']['hostname'] = '127.8.167.2:3306';
 $db['default']['username'] = 'adminwycUGv4';
 $db['default']['password'] = 'gruNxJKGBZS2';
 $db['default']['database'] = 'autopartes365';
