@@ -48,10 +48,17 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost:3307';
-$db['default']['username'] = 'root';
-$db['default']['password'] = '';
-$db['default']['database'] = 'fenix_base';
+/*
+Server: 127.8.167.2:3306
+Root User: adminwycUGv4
+Root Password: gruNxJKGBZS2
+Database Name: autopartes365
+*/
+
+$db['default']['hostname'] = '127.8.167.2';
+$db['default']['username'] = 'adminwycUGv4';
+$db['default']['password'] = 'gruNxJKGBZS2';
+$db['default']['database'] = 'autopartes365';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
