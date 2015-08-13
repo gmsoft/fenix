@@ -55,13 +55,13 @@ Root Password: gruNxJKGBZS2
 Database Name: autopartes365
 */
 
-$db['default']['hostname'] = '127.8.167.2';
+$db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'adminwycUGv4';
 $db['default']['password'] = 'gruNxJKGBZS2';
 $db['default']['database'] = 'autopartes365';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
-$db['default']['pconnect'] = TRUE;
+$db['default']['pconnect'] = FALSE;
 $db['default']['db_debug'] = TRUE;
 $db['default']['cache_on'] = FALSE;
 $db['default']['cachedir'] = '';
